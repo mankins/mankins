@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👯 I’m looking to collaborate on alt business models for the web
-- 📫 How to reach me: mankins@mozillafoundation.org
+- 👯 I’m looking to collaborate
+- 📫 How to reach me: mankins@gmail.com
